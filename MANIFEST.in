@@ -1,0 +1,4 @@
+graft ufo4lb
+include requirements.txt requirements.dev.txt
+include config.yaml
+global-exclude *.pyc *.pyo *.swo *.swp *.map *.DS_Store
